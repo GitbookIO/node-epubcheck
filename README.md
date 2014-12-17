@@ -16,5 +16,6 @@ var epubCheck = require("epubcheck");
 
 epubCheck("./book.epub", function(err, details) {
 	// do something
+	// details.messages is a list of {type,content} object
 });
 ```
