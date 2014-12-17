@@ -1,0 +1,18 @@
+{
+    "name": "epubcheck",
+    "version": "0.0.0",
+    "main": "lib/index.js",
+    "author": "Samy Pessé <samy@gitbook.com>",
+    "description": "Wrapper for epubcheck",
+    "bugs": "https://github.com/GitBookIO/node-epubcheck/issues",
+    "engines": {
+        "node": ">=0.6"
+    },
+    "dependencies": {
+        "lodash": "2.4.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GitBookIO/node-epubcheck.git"
+    }
+}
